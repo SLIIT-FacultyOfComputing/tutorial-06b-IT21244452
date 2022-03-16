@@ -3,10 +3,8 @@ using namespace std;
 #include "Box.h"
 
 int main() {
-  
    // 1. Create a Box type object called box1
   Box box1;
-  
   
    // ======= DO NOT CHANGE THE INPUT ===========
    int height, length, width;
