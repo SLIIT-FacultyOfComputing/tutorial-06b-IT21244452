@@ -3,6 +3,7 @@ class Box {
        int length;
        int width;
        int height;
+
     public:
       void setWidth(int w);
       void setLength (int l);
